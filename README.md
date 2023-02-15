@@ -1,2 +1,2 @@
 # Tableau_projects
-Tableau projects of various datas/projects been performed and various analysis has been evaluated into the dashboard.
+Various Tableau projects have been executed, analyzing diverse datasets and presenting the findings through interactive dashboards.
