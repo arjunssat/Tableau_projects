@@ -1,2 +1,2 @@
 # Tableau_projects
-Various Tableau projects have been executed, analyzing diverse datasets and presenting the findings through interactive dashboards.
+I have executed various Tableau projects where I analyzed diverse datasets and presented my findings through interactive dashboards.
